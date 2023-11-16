@@ -5,7 +5,7 @@
 <h1 align="center">🔵 Voro GMAIL Generator 🔵</h1>
 
 <p align="center">
-  Seamlessly generate GMAIL accounts & auto-verify the accounts using [5sim](https://5sim.net/)
+  Seamlessly generate GMAIL accounts & auto-verify the accounts using Puppeteer, Faker, & 5sim.net
 </p>
 
 ## Features:
