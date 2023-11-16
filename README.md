@@ -17,16 +17,14 @@
 
 ## Configuration:
 
-Amount = Amount of accounts to generate (tasks are run concurrently)
-Headless = Headless or headful
-
-true = headless
-false = headful
-"new" = Uses latest headless browser (decreases detection)
-
-SMS:
-Region = 5sim region to use
-apiKey = 5SIM API Key
+- Amount = Amount of accounts to generate (tasks are run concurrently)
+- Headless = Headless or headful:
+- true = headless
+- false = headful
+- "new" = Uses latest headless browser (decreases detection)
+- SMS:
+- Region = 5sim region to use
+- apiKey = 5SIM API Key
 
 ```
 {
@@ -39,7 +37,7 @@ apiKey = 5SIM API Key
 }
 ```
 
-I have included a few free accounts (in exports.txt) 😃
+- I have included a few free accounts (in exports.txt) 😃
 
 ## Requirements:
 
