@@ -19,10 +19,10 @@
 
 - Amount = Amount of accounts to generate (tasks are run concurrently)
 - Headless = Headless or headful:
-- true = headless
-- false = headful
+- headless = true
+- headful = false
 - "new" = Uses latest headless browser (decreases detection)
-- SMS:
+  SMS:
 - Region = 5sim region to use
 - apiKey = 5SIM API Key
 
