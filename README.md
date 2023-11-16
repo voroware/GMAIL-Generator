@@ -39,6 +39,8 @@ apiKey = 5SIM API Key
 }
 ```
 
+I have included a few free accounts (in exports.txt) 😃
+
 ## Requirements:
 
 - A Brain
