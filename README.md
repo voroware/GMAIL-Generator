@@ -43,3 +43,9 @@ apiKey = 5SIM API Key
 
 - [ ] 10 Stars: Proxy Support
 - [ ] 25 Stars: Python Version
+
+## Requirements:
+
+- A Brain
+- [NodeJS](https://nodejs.org/en/)
+- A [5sim](https://5sim.net) API Key
