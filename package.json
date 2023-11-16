@@ -1,0 +1,25 @@
+{
+  "name": "gmail-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "4.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "faker": "5.5.3",
+    "got": "11.8.6",
+    "locate-chrome": "^0.1.1",
+    "proper-lockfile": "^4.1.2",
+    "puppeteer": "^21.5.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-adblocker": "^2.13.6",
+    "puppeteer-extra-plugin-anonymize-ua": "^2.4.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "secure-random-password": "^0.2.3"
+  }
+}

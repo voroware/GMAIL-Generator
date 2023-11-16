@@ -1,0 +1,8 @@
+{
+    "amount": 1,
+    "headless": "new",
+    "sms": {
+        "region": "",
+        "apiKey": ""
+    }
+}
